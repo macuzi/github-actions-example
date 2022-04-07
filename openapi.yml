@@ -1279,7 +1279,7 @@ paths:
       summary: Remove Token
       tags:
       - api_token
-  /api/v1/use:
+  /api/v1/users:
     get:
       operationId: get_users_api_v1_users_get
       parameters:
