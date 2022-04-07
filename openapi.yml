@@ -1070,7 +1070,7 @@ paths:
       summary: Post Notebook
       tags:
       - notebook
-  /api/v1/notebook-serve:
+  /api/v1/notebook-server:
     get:
       operationId: get_jupyter_lab_api_v1_notebook_server_get
       responses:
